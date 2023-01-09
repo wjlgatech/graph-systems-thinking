@@ -1,10 +1,11 @@
 # Graph and Systems Thinking
 How to use Systems Thinking to promote enterprise knowledge graphs.
 
-The documentation site is [here](https://dmccreary.github.io/graph-systems-thinking/)
+The documentation site is [here](https://github.com/wjlgatech/graph-systems-thinking/)
 
-## Author
-* [Dan McCreary](https://www.linkedin.com/in/danmccreary)
+## Credits & References
+
+* Original GitHub repo: [Dan McCreary](https://www.linkedin.com/in/danmccreary)
 
 ## Installation
 
